@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+
+}
+ul{
+    font-size: 25px;
+    text-align: left;
+    
+}
+img{
+   padding-right: 50px;
+}
